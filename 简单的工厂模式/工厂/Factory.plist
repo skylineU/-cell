@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Property List.plist
+   MyProject
+
+   Created by yun on 2018/5/4.
+   Copyright (c) 2018年 yun. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>cellType</key>
+            <string>PicTableViewCell</string>
+            <key>content</key>
+            <string>有人关注美国的台海底牌到底是什么？</string>
+            <key>note</key>
+            <string>环球新闻 1000评论 1小时前</string>
+            <key>picture</key>
+            <string>http://img5.duitang.com/uploads/item/201411/06/20141106104720_WHEe2.jpeg</string>
+        </dict>
+        <dict>
+            <key>cellType</key>
+            <string>WordTableViewCell</string>
+            <key>content</key>
+            <string>海外网5月4日电大陆多次的军演，让台当局很慌，“武统”声浪也应声高涨。美国部分人士总爱对台海问题指手画脚，日前，美国智库研究员又插嘴声称，“中国大陆武力攻台，几乎不可能成功。</string>
+            <key>note</key>
+            <string>环球新闻 1000评论 1小时前</string>
+        </dict>
+        <dict>
+            <key>cellType</key>
+            <string>PicTableViewCell</string>
+            <key>content</key>
+            <string>4月以来，解放军的军演频频，5日至11日在南海举行军演，有历来最具规模的海上阅兵。</string>
+            <key>note</key>
+            <string>环球新闻 1000评论 1小时前</string>
+            <key>picture</key>
+            <string>http://img5.duitang.com/uploads/item/201411/06/20141106104720_WHEe2.jpeg</string>
+        </dict>
+        <dict>
+            <key>cellType</key>
+            <string>WordTableViewCell</string>
+            <key>content</key>
+            <string>这位美国专家叫嚣大陆无法“武统”，然而岛内舆论关于“武统”可是紧张的不行。根据台湾岛内不同民调显示，岛内过半数民众认为台湾宣布“独立”，大陆就会“武统”，所以大家都主张不要战争。</string>
+            <key>note</key>
+            <string>环球新闻 1000评论 1小时前</string>
+        </dict>
+        <dict>
+            <key>cellType</key>
+            <string>PicTableViewCell</string>
+            <key>content</key>
+            <string>日前，解放军中将称3天可攻下台湾。</string>
+            <key>note</key>
+            <string>环球新闻 1000评论 1小时前</string>
+            <key>picture</key>
+            <string>http://img5.duitang.com/uploads/item/201411/06/20141106104720_WHEe2.jpeg</string>
+        </dict>
+        <dict>
+            <key>cellType</key>
+            <string>WordTableViewCell</string>
+            <key>content</key>
+            <string>其实，关于解放军军演，外界舆论早已直指这是在警告“台独”，敲打美国。早前，台南大学行政管理学系教授马群杰称，这是向美国传达信息，表达掌握台海情势的能力与决心。</string>
+            <key>note</key>
+            <string>环球新闻 1000评论 1小时前</string>
+        </dict>
+        <dict>
+            <key>cellType</key>
+            <string>PicTableViewCell</string>
+            <key>content</key>
+            <string>关于台海军演，是否有警告“台独势力”的意味？</string>
+            <key>note</key>
+            <string>环球新闻 1000评论 1小时前</string>
+            <key>picture</key>
+            <string>http://img5.duitang.com/uploads/item/201411/06/20141106104720_WHEe2.jpeg</string>
+        </dict>
+    </array>
+    
+</plist>
